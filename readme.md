@@ -1,3 +1,6 @@
+# Linear-Regression-from-scratch
+
+
 step - 1 :
 
 collect our data - to collect our data we use famous library NUMPY, so import numpy
