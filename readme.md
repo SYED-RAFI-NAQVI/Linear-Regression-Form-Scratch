@@ -3,14 +3,15 @@
 
 # step - 1 :
 
-collect our data - to collect our data we use famous library NUMPY, so import numpy
+Collect our data - to collect our data we use famous library NUMPY, so import numpy
 
 collect the data from data.csv which is comma seperated values
 
 the data is about the hours of study of students and the scores they got in exam 
 
 # step - 2 :
-defining the hyperparameters such as learning rate, b , m , number of iterations.
+
+Defining the hyperparameters such as learning rate, b , m , number of iterations.
 
 where learning rate is the rate of learning which say to learn from given data with certain rate or speed,
 
