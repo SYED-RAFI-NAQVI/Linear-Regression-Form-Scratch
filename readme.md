@@ -23,3 +23,11 @@ m and b is derived from a fromula y = mx + b.
 
 num of iterations is the parameter to indicate how much time to take to train the model
 
+# step - 3 :
+
+finding the mean square error of the line for the given data points by using the formula (y - mx + b) **2 / N ====> averaging the error with the total number
+points 
+
+where N is the number of points in the data set 
+
+this step finds the mean square error of the intial line. 
