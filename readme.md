@@ -30,4 +30,4 @@ points
 
 where N is the number of points in the data set 
 
-this step finds the mean square error of the intial line. 
+this step finds the Mean Square Error of the intial line. 
