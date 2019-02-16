@@ -44,6 +44,5 @@ this step is the actual gradient decent which finds the best fit line for the da
       m_gradient += -(2/N) * x * (y - ((m_current * x) + b_current))
 
       these formulas helps to find the m and b
-=======
-this step finds the Mean Square Error of the intial line. 
+
 
