@@ -30,6 +30,7 @@ finding the mean square error of the line for the given data points by using the
 
 where N is the number of points in the data set 
 
+<<<<<<< HEAD
 this step finds the mean square error of the intial line. 
 
 # step - 4 :
@@ -44,3 +45,6 @@ this step is the actual gradient decent which finds the best fit line for the da
       m_gradient += -(2/N) * x * (y - ((m_current * x) + b_current))
 
       these formulas helps to find the m and b
+=======
+this step finds the Mean Square Error of the intial line. 
+>>>>>>> 7c66313ff4d7f6e1730c2230b46a220a361584c9
