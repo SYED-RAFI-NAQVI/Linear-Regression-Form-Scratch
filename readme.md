@@ -1,4 +1,4 @@
-# Linear-Regression-from-scratch
+# Linear-Regression-From-Scratch
 
 
 # step - 1 :
