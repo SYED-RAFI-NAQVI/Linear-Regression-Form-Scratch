@@ -52,4 +52,4 @@ The main function grabs all the hyperparameters which are initialized in step 2 
 
 # Output :
 
-![This is the output](./img.png)
+![This is the output](./output.png)
