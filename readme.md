@@ -7,7 +7,7 @@ Collect our data - to collect our data we use famous library NUMPY, so import nu
 
 collect the data from data.csv which is comma seperated values
 
-the data is about the hours of study of students and the scores they got in exam 
+The data is about the hours of study of students and the scores they got in exam 
 
 # step - 2 :
 
@@ -30,15 +30,15 @@ Finding the mean square error of the line for the given data points by using the
 
 where N is the number of points in the data set 
 
-this step finds the mean square error of the intial line. 
+This step finds the mean square error of the intial line. 
 
 # step - 4 :
 
 Finding the best m, b for the best fit line
 
-this step under goes recursiveness to find m, b where the line moves forward and backword with respect to the data points when there is less mean square error then we will get the best m, b values
+This step under goes recursiveness to find m, b where the line moves forward and backword with respect to the data points when there is less mean square error then we will get the best m, b values
 
-this step is the actual gradient decent which finds the best fit line for the data points
+This step is the actual gradient decent which finds the best fit line for the data points
 
       b_gradient += -(2/N) * (y - ((m_current * x) + b_current))
       m_gradient += -(2/N) * x * (y - ((m_current * x) + b_current))
