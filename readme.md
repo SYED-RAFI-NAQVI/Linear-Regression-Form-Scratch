@@ -49,3 +49,7 @@ This step is the actual gradient decent which finds the best fit line for the da
 
 The main function grabs all the hyperparameters which are initialized in step 2 and pass it to the respective function to find the best fit line with gradient decent.
 
+
+# Output :
+
+![This is the output](img.png)
